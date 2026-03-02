@@ -31,4 +31,5 @@ Key Skills Demonstrated
 - Security Tooling: Network reconnaissance and service versioning via Nmap
 
 Verification & Testing
+
 <img width="788" height="605" alt="Screenshot 2026-03-02 at 12 27 25 AM" src="https://github.com/user-attachments/assets/64c18458-dcee-4ff9-8b0c-4d1eceb5787d" />
