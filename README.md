@@ -24,11 +24,11 @@ Technical Challenges & Solutions
 - The Issue: Verification of tool integrity post-installation
 - The Solution: Conducted an aggressive Nmap scan (nmap -A) against the local host to verify service detection, OS fingerprinting, and script engine functionality.
 
-Verification & Testing
-<img width="788" height="605" alt="Screenshot 2026-03-02 at 12 27 25 AM" src="https://github.com/user-attachments/assets/64c18458-dcee-4ff9-8b0c-4d1eceb5787d" />
-
 Key Skills Demonstrated
 - Linux Administration: DPKG repair, APT package management, and kernel-level troubleshooting.
 - Storage Engineering: GParted, partition geometry, swap management
 - Virtualization: Apple Silicon (ARM64) virtualization using UTM/QEMU
 - Security Tooling: Network reconnaissance and service versioning via Nmap
+
+Verification & Testing
+<img width="788" height="605" alt="Screenshot 2026-03-02 at 12 27 25 AM" src="https://github.com/user-attachments/assets/64c18458-dcee-4ff9-8b0c-4d1eceb5787d" />
